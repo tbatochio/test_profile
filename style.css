@@ -3,7 +3,7 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #1E5162;
   text-align: center;
-  object-fit: cover;
+  object-fit: cover; /* comment */
 }
 
 .container {
